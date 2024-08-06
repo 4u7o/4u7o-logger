@@ -12,7 +12,8 @@ A simple, lightweight, powerful logger module for 4u7o projects.
     "level": "INFO", // INFO, WARN, ERROR, TRACE, DEBUG
     "message": "This is the log message sample.",
     "trace": {
-
+        
     }
 }
 ```
+
