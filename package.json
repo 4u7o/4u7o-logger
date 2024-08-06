@@ -1,0 +1,32 @@
+{
+    "name": "@4u7o/logger",
+    "version": "0.0.1",
+    "description": "A simple, lightweight, powerful logger module for 4u7o projects.",
+    "main": "./lib/index.js",
+    "types": "@types/index.d.ts",
+    "homepage": "https://github.com/4u7o/4u7o-logger#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/4u7o/4u7o-logger.git"
+    },
+    "bugs": {
+        "url": "https://github.com/4u7o/4u7o-logger/issues"
+    },
+    "scripts": {
+        "build": "npx tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "logger",
+        "logging",
+        "log"
+    ],
+    "author": "quangpao",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^5.5.4"
+    },
+    "dependencies": {
+        "tslib": "^2.6.3"
+    }
+}
